@@ -3,7 +3,8 @@ import.sys
 
 """
 This is a new version
-Author: M. Kargól 
+
+Author: 
 """
 
 count = 0
