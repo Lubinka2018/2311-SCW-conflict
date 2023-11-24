@@ -2,7 +2,8 @@
 import.sys
 
 """
-This is a new version 
+This is a new version
+Author: Marta Kargól 
 """
 
 count = 0
